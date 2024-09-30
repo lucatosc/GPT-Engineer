@@ -24,7 +24,7 @@ Each issue within our project is categorized under one of the main pillars and, 
 
 You can:
 
-- Post a "design" as a Google Doc in our [Discord](https://discord.com/channels/1119885301872070706/1120698764445880350), and ask for feedback to address one of the items in the roadmap
+- Post a "design" as a Google Doc in our [Discord](), and ask for feedback to address one of the items in the roadmap
 - Submit PRs to address one of the items in the roadmap
 - Do a review of someone else's PR and propose next steps (further review, merge, close)
 
